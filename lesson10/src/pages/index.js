@@ -1,0 +1,10 @@
+export {default as Login} from './login';
+export {default as Register} from './register';
+export {default as Home} from './home';
+export {default as Products} from './products';
+export {default as Invoices} from './invoices';
+export {default as SingleProducts} from './singleProduct';
+export {default as SingleInvoices} from './singleInvoice';
+export {default as Cart} from './cart';
+export {default as Profile} from './profile';
+export {default as About} from './about';
